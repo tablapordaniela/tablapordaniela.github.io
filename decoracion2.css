@@ -1,0 +1,75 @@
+#navegador .desorganizado{
+   list-style-type: none;
+   text-align: left;
+   padding: 30px;
+   background-color: rgba(237,210,100,0.3);
+}
+#navegador li{
+   display: inline;
+   text-align: left;
+   margin: 5px;
+}
+#navegador li a {
+   padding: 14px;
+   color: #000;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color: rgba(237,117,100,0.3);
+   color: #ffffff;
+}
+.text1{
+   text-align: center;
+   font-size: 20px;
+   margin: 50px;
+}
+#inicio{
+   border-radius: 100px;
+   margin: 100px;
+   padding:  50px;
+   background-color: rgba(38,137,203,0.3);
+}
+.text2{
+   text-align: center;
+   font-size: 20px;
+   margin: 50px;
+}
+#reseña2{
+   border-radius: 100px;
+   margin: 100px;
+   padding:  50px;
+   background-color: rgba(217,233,20,0.5);
+}
+#barrat{
+   background-color: rgba(0,255,100,0.5);
+   align-content: center;
+}
+.logo{
+   border-radius: 100px;
+   font-size: 50px;
+}
+span{
+   font-size: 25px;
+   color: darkred;
+}
+
+.otros2{
+   background-color: rgba(73, 166, 245,.3);
+   padding: 50px;
+   border-radius: 100px;
+}
+.img2{
+   border-radius: 100px;
+}
+.text3{
+   font-size: 25px;
+}
+.otros3{
+   background-color: rgba(73, 166, 245,.3);
+   padding: 50px;
+   border-radius: 100px;
+}
+.img3{
+   border-radius: 100px;
+   margin: 10px;
+}

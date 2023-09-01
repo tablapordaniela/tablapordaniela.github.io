@@ -1,0 +1,43 @@
+#navegador .desorganizado{
+   list-style-type: none;
+   text-align: left;
+   padding: 30px;
+   background-color: rgba(237,210,100,0.3);
+}
+#navegador li{
+   display: inline;
+   text-align: left;
+   margin: 5px;
+}
+#navegador li a {
+   padding: 14px;
+   color: #000;
+   text-decoration: none;
+}
+#navegador li a:hover{
+   background-color: rgba(237,117,100,0.3);
+   color: #ffffff;
+}
+#titulo{
+   font-size: 40px ;
+}
+.text1{
+   font-family: initial;
+   text-align: center;
+   font-size: 25px;
+   margin: 50px;
+}
+#inicio{
+   border-radius: 90px;
+   margin: 25px;
+   padding: 20px;
+   background-color: rgba(239,228,72,0.3);
+}
+#barrat{
+   background-color: rgba(0,255,100,0.5);
+   align-content: center;
+}
+.logo{
+   border-radius: 100px;
+   font-size: 50px;
+}
